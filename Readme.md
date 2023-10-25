@@ -7,7 +7,7 @@ Welcome to the Space Quiz App repository! This simple Node.js and TypeScript app
 1. Clone or download this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/space-quiz-app.git
+   git clone https://github.com/Suleman1411/typescript-quiz-app
    ```
 2. Navigate directory
 
