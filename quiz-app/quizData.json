@@ -1,0 +1,53 @@
+[
+    {
+      "question": "What is the largest planet in our solar system?",
+      "answers": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "correctAnswer": "Jupiter"
+    },
+    {
+      "question": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+      "answers": ["Mars", "Venus", "Uranus", "Neptune"],
+      "correctAnswer": "Venus"
+    },
+    {
+      "question": "What is the closest star to Earth?",
+      "answers": ["The Moon", "Proxima Centauri", "Mars", "Sun"],
+      "correctAnswer": "Sun"
+    },
+    {
+      "question": "How long does it take for light from the Sun to reach Earth?",
+      "answers": ["8 minutes and 20 seconds", "1 hour", "24 hours", "1 week"],
+      "correctAnswer": "8 minutes and 20 seconds"
+    },
+    {
+      "question": "What is the Earth's primary source of energy for its climate and weather systems?",
+      "answers": ["Wind", "Tides", "Fossil fuels", "Sun"],
+      "correctAnswer": "Sun"
+    },
+    {
+      "question": "Which gas makes up the majority of Earth's atmosphere?",
+      "answers": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+      "correctAnswer": "Nitrogen"
+    },
+    {
+      "question": "What is the phenomenon where the Moon passes between the Earth and the Sun, blocking the Sun's light?",
+      "answers": ["Eclipse", "Aurora", "Comet", "Supernova"],
+      "correctAnswer": "Eclipse"
+    },
+    {
+      "question": "Which spacecraft was the first to land humans on the Moon in 1969?",
+      "answers": ["Apollo 11", "Voyager 1", "Mars Rover", "Hubble Space Telescope"],
+      "correctAnswer": "Apollo 11"
+    },
+    {
+      "question": "What is the name of the galaxy that the Milky Way is a part of?",
+      "answers": ["Andromeda", "Triangulum", "Orion", "Sombrero"],
+      "correctAnswer": "Andromeda"
+    },
+    {
+      "question": "How many planets are there in our solar system?",
+      "answers": ["8", "9", "10", "12"],
+      "correctAnswer": "8"
+    }
+  ]
+  
