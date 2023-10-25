@@ -61,6 +61,11 @@ The quiz questions and answers are stored in the `quizData.json` file. To add mo
 
 6. Restart the quiz app by running `npm start` to see the new questions in action.
 
+## Negative Marking
+
+This quiz app features negative marking. When a user answers a question incorrectly, their score is deducted by 1 point.
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
