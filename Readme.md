@@ -24,7 +24,7 @@ cd quiz-app
 4. Run the quiz app:
 
    ```bash
-   npm start
+   node index.js
    ```
 
 ## Modifying `quizData.json`
