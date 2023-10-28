@@ -75,4 +75,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you want to contribute more quiz questions or improve the application, feel free to fork this repository, make your changes, and submit a pull request.
 
 Happy quizzing!
-```
